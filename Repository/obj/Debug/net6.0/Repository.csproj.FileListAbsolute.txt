@@ -1,0 +1,15 @@
+D:\MyCode\FileManagmentSystem\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\MyCode\FileManagmentSystem\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCode\FileManagmentSystem\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\MyCode\FileManagmentSystem\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\MyCode\FileManagmentSystem\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\MyCode\FileManagmentSystem\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\MyCode\FileManagmentSystem\Repository\bin\Debug\net6.0\Repository.dll
+D:\MyCode\FileManagmentSystem\Repository\bin\Debug\net6.0\Repository.pdb
+D:\MyCode\FileManagmentSystem\Repository\bin\Debug\net6.0\Domain.dll
+D:\MyCode\FileManagmentSystem\Repository\bin\Debug\net6.0\Domain.pdb
+D:\MyCode\FileManagmentSystem\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\MyCode\FileManagmentSystem\Repository\obj\Debug\net6.0\Repository.dll
+D:\MyCode\FileManagmentSystem\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\MyCode\FileManagmentSystem\Repository\obj\Debug\net6.0\Repository.pdb
+D:\MyCode\FileManagmentSystem\Repository\obj\Debug\net6.0\ref\Repository.dll
